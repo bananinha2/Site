@@ -1,22 +1,26 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-br">
-
    <head>
-    <meta charset="utf-8">
-    <title>
-     </head
-  </body>
-   <h1>VKI Eventos</h1>
+      <meta charset="utf-8">
+      <title>KSI eventos</title>
+      
+      <style>
+          p {
+             text-align: center
+          }
+      </style>
+  </head>
   
-  <p>strong>KSI Events <strong> é a maior empresa de organização de eventos do Brasil, 
+  <body>
+   <h1 style="text-align: center">VKI Eventos</h1>
   
-  
-  
-  
-  
-  
-  
-  
+   <p style="font-size: 20px"><em>KSI Eventos </em> <strong> é a maior empresa de organização de eventos do Brasil</strong>.</p>
+   <p style="text-align: center">Temos como nosso objetivo ajudar você a criar as melhores festas que você possa imaginar.</p>
+   <p><em>Desde 28 de outubro de 1998 oferecendo o melhor a você</em></p>
+   
+   <h2>beneficios</h2>
+   
+   
   
    </body>
   </html>
